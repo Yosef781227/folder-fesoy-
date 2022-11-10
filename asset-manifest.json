@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/folder-fesoy-/static/css/main.073c9b0a.css",
+    "main.js": "/folder-fesoy-/static/js/main.4cd2d066.js",
+    "static/js/787.8cf4573a.chunk.js": "/folder-fesoy-/static/js/787.8cf4573a.chunk.js",
+    "static/media/logo.svg": "/folder-fesoy-/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/folder-fesoy-/index.html",
+    "main.073c9b0a.css.map": "/folder-fesoy-/static/css/main.073c9b0a.css.map",
+    "main.4cd2d066.js.map": "/folder-fesoy-/static/js/main.4cd2d066.js.map",
+    "787.8cf4573a.chunk.js.map": "/folder-fesoy-/static/js/787.8cf4573a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4cd2d066.js"
+  ]
+}
